@@ -27,5 +27,5 @@ Understanding and optimizing solubility helps pharmaceutical companies develop e
 References
 ESOL:  Estimating Aqueous Solubility Directly from Molecular Structure - https://pubs.acs.org/doi/10.1021/ci034243x
 st.bar_chart - https://docs.streamlit.io/develop/api-reference/charts/st.bar_chart
-st.expander
+st.expander - https://docs.streamlit.io/develop/api-reference/layout/st.expander
 st.slider - https://docs.streamlit.io/develop/api-reference/widgets/st.slider
